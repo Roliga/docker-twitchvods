@@ -1,0 +1,6 @@
+﻿{
+    "OutputDir": "/srv/twitchvods",
+    "ChannelsFilePath": "/opt/twitchvods/channels.txt",
+    "LimitVideos": "false",
+    "TwitchApiClientId": ""
+}
